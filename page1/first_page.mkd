@@ -1,0 +1,30 @@
+# first\_page
+
+* [ ] task1
+* [ ] task2
+* [ ] task3
+
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+{% hint style="info" %}
+this is a hint for something else
+{% endhint %}
+
+this is from the first tab
+{% endtab %}
+
+{% tab title="Second Tab" %}
+## This is the second tab
+
+text and some more
+{% endtab %}
+{% endtabs %}
+
+
+
+***
+
+<figure><img src="../.gitbook/assets/asd.png" alt=""><figcaption><p>ME2</p></figcaption></figure>
+
