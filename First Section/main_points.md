@@ -26,5 +26,3 @@ text and some more
 
 ***
 
-<figure><img src="../.gitbook/assets/asd.png" alt=""><figcaption><p>ME2</p></figcaption></figure>
-
