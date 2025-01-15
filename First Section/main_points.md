@@ -1,4 +1,4 @@
-# first\_page
+# Main points
 
 * [ ] task1
 * [ ] task2
@@ -16,7 +16,7 @@ this is from the first tab
 {% endtab %}
 
 {% tab title="Second Tab" %}
-## This is the second tab
+## 
 
 text and some more
 {% endtab %}
