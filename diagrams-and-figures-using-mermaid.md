@@ -1,6 +1,7 @@
 # Diagrams and figures using Mermaid
 
 {% embed url="https://mermaid.js.org/intro/" %}
+You can find many useful example on this url. (This line was added through syncing with github)
 
 ```mermaid
 graph TD
