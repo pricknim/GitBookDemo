@@ -1,6 +1,26 @@
+---
+cover: https://istccorp.com/wp-content/uploads/2021/04/bosch-header.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Diagrams and figures using Mermaid
 
 {% embed url="https://mermaid.js.org/intro/" %}
+
 You can find many useful example on this url. (This line was added through syncing with github)
 
 ```mermaid
@@ -51,4 +71,3 @@ kanban
     id3[Weird flickering in Firefox]
 
 ```
-
