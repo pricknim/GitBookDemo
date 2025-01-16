@@ -1,5 +1,6 @@
 ---
 description: Page provides a short introduction regarding the content of this documentation
+coverY: 0
 ---
 
 # Introduction
