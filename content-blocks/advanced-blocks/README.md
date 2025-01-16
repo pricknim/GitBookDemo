@@ -1,7 +1,7 @@
 ---
 description: Some of the advanced blocks
 cover: https://istccorp.com/wp-content/uploads/2021/04/bosch-header.jpg
-coverY: 0
+coverY: 260
 layout:
   cover:
     visible: true

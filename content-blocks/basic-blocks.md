@@ -1,7 +1,7 @@
 ---
 description: Presentation on some of the blocks
 cover: https://istccorp.com/wp-content/uploads/2021/04/bosch-header.jpg
-coverY: 0
+coverY: 171
 layout:
   cover:
     visible: true
