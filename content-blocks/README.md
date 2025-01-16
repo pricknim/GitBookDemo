@@ -1,7 +1,7 @@
 ---
 description: A short introduction to some of the content block available in GitBook.
-cover: https://istccorp.com/wp-content/uploads/2021/04/bosch-header.jpg
-coverY: 114
+cover: ../.gitbook/assets/bosch-header.jpg
+coverY: 0
 layout:
   cover:
     visible: true

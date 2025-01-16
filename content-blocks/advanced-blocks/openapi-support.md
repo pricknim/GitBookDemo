@@ -2,8 +2,8 @@
 description: >-
   Example usage of the OpenAPI advanced content block, using the petstore
   openAPI json url.
-cover: https://istccorp.com/wp-content/uploads/2021/04/bosch-header.jpg
-coverY: 51
+cover: ../../.gitbook/assets/bosch-header.jpg
+coverY: 0
 layout:
   cover:
     visible: true
