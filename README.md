@@ -1,6 +1,5 @@
 ---
 description: Page provides a short introduction regarding the content of this documentation
-cover: .gitbook/assets/bosch-header.jpg
 coverY: 0
 layout:
   cover:
@@ -36,5 +35,5 @@ We will try to showcase some of the most interesting features of <mark style="co
 2. The _GitSync_ function
 3. Some of the available block components (such as this ordered list and the informative hint block)
 4. _OpenAPI_ support
-5. Customization
-6. And some more 😄​
+5. And some more 😄​
+

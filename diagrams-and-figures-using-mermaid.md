@@ -48,10 +48,7 @@ classDiagram
         -int sizeInFeet
         -canEat()
     }
-    class Zebra{
-        +bool is_wild
-        +run()
-    }
+    
 
 ```
 
