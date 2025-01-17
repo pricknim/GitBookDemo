@@ -37,3 +37,5 @@ We will try to showcase some of the most interesting features of <mark style="co
 4. _OpenAPI_ support
 5. And some more 😄​
 
+Mention the different plans as well.
+

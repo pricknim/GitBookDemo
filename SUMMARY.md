@@ -8,3 +8,4 @@
     * [Other useful blocks](content-blocks/advanced-blocks/other-useful-blocks.md)
 * [Diagrams and figures using Mermaid](diagrams-and-figures-using-mermaid.md)
 * [Embeds](embeds.md)
+* [New Page](new-page.md)
